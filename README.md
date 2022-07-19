@@ -7,4 +7,4 @@ Users can play different drum sounds using the mouse or keyboard buttons on this
 Used JavaScript event handlers, animations and audio files for the drum sound. Also used HTML5 and CSS3.
 
 ## Screenshots
-![](images/website-ss.png)
+![](images/Website-ss.png)
